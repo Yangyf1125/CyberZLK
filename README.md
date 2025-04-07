@@ -1,2 +1,2 @@
 # CyberZLK
-CyberZouLongkai, a chatbot based on ChatGLM3
+CyberZouLongkai, a chatbot based on Deepseek API with personality
